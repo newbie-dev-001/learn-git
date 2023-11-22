@@ -6,7 +6,7 @@
 
 Youtube link - https://www.youtube.com/watch?v=xdvqNcblAYc
 
-### ဖတ်ဖြစ်သော link များ
+#### ဖတ်ဖြစ်သော link များ
 - https://en.wikipedia.org/wiki/Version_control
 - https://www.perforce.com/blog/vcs/what-is-version-control
 - https://www.atlassian.com/git/tutorials/what-is-version-control
@@ -21,7 +21,7 @@ Youtube link - https://www.youtube.com/watch?v=xdvqNcblAYc
 
 Youtube link - https://www.youtube.com/watch?v=uV2ydf4Yx2M
 
-### ဖတ်ဖြစ်သော link များ
+#### ဖတ်ဖြစ်သော link များ
 - https://www.gitkraken.com
 - https://www.sourcetreeapp.com/
 - https://www.syntevo.com/smartgit/
