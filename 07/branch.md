@@ -89,5 +89,9 @@ A lightweight movable pointer to a commit
   ```
   git branch -d new-feature
   ```
+- Force လုပ်ပြီး delete ချင်ရင်တော့
+  ```
+  git branch -D new-feature
+  ```
 ---
 
